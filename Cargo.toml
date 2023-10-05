@@ -1,0 +1,18 @@
+[package]
+name = "fvecs_readers"
+version = "0.1.0"
+edition = "2021"
+authors = ["Nawat Ngerncham <n.ngerncham@gmail.com>"]
+description = "Quick and dirty .fvecs file reader"
+license = "MIT"
+repository = "https://github.com/nngerncham/fvecs_readers"
+
+[dependencies]
+
+[dev-dependencies]
+
+
+[lib]
+name = "fvecs_readers"
+path = "src/lib.rs"
+edition = "2021"
